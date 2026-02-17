@@ -1,2 +1,1 @@
-# terraform-practice-repo3-infra
-Code terraform in infra
+# This repo is created using terraform resource in dev
