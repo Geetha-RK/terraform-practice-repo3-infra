@@ -1,1 +1,2 @@
-# This infra - terraform repo is created using terraform resource in dev.The infra was last moduled by Geetha Rashinkar Kumar
+# This infra - terraform repo is created using terraform resource in dev.
+The infra was last moduled by Geetha Rashinkar Kumar
